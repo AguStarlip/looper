@@ -1,0 +1,22 @@
+.textStyle {
+  color: black; }
+
+.textStyle {
+  padding: 1%;
+  margin: auto;
+  font: 120% serif;
+  display: flex;
+  flex-wrap: wrap; }
+
+div p, .textStyle p {
+  font: bold 100% serif; }
+div ul, .textStyle ul {
+  font: oblique bold serif;
+  color: black; }
+div p, .textStyle p {
+  font: bold 100% serif; }
+div ul, .textStyle ul {
+  font: oblique bold serif;
+  color: black; }
+
+/*# sourceMappingURL=textStyle.css.map */
